@@ -6,7 +6,11 @@ on:
       - 'master'
 
 jobs:
-  test:
+  example_matrix:
+    strategy:
+      matrix:
+        os: [ windows-latest, ubuntu-latest ]
+        node: [16, 20]
     name: Test
     runs-on: ubuntu-latest
     steps:
