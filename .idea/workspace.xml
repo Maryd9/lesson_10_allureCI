@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="59a9ea39-76d7-43be-8c30-1329be1e051f" name="Changes" comment="" />
+    <list default="true" id="59a9ea39-76d7-43be-8c30-1329be1e051f" name="Changes" comment="Исправления">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +54,81 @@
       <option name="presentableId" value="Default" />
       <updated>1719129086928</updated>
     </task>
+    <task id="LOCAL-00001" summary="Изменила branches в yaml файле">
+      <option name="closed" value="true" />
+      <created>1719129899427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719129899427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавила run">
+      <option name="closed" value="true" />
+      <created>1719130045203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130045203</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавила тесты и allure">
+      <option name="closed" value="true" />
+      <created>1719130172206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130172206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Исправления">
+      <option name="closed" value="true" />
+      <created>1719130221046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130221046</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Исправления">
+      <option name="closed" value="true" />
+      <created>1719130305600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130305601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Исправления">
+      <option name="closed" value="true" />
+      <created>1719130446808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130446808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Исправления">
+      <option name="closed" value="true" />
+      <created>1719130595798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719130595798</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Изменила branches в yaml файле" />
+    <MESSAGE value="Добавила run" />
+    <MESSAGE value="Добавила тесты и allure" />
+    <MESSAGE value="Исправления" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправления" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
