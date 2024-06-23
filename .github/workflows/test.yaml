@@ -20,4 +20,4 @@ jobs:
           pip install -r requirements.txt
       - name: Install dependencies
         run:
-          pytest --alluredir=tests/allure-results
+          pytest --alluredir=allure-results
