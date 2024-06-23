@@ -16,8 +16,8 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: |
+        run:
           pip install -r requirements.txt
       - name: Install dependencies
-        run: |
+        run:
           pytest --alluredir=tests/allure-results
